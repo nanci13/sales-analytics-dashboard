@@ -135,12 +135,6 @@ Sales-Analytics-Dashboard/
 
 ## 📥 Getting Started
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Sales-Analytics-Dashboard.git
-```
-
 ### Open the Project
 
 1. Install **Microsoft Power BI Desktop**.
