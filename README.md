@@ -101,7 +101,8 @@ The dashboard is built using a sales dataset containing information such as:
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your dashboard here.
+<img width="878" height="494" alt="image" src="https://github.com/user-attachments/assets/a4eb4b13-9441-40fb-aa45-83ec21fcccc1" />
+
 
 Example:
 
